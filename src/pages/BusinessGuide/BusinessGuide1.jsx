@@ -74,7 +74,7 @@ const BusinessGuide1 = () => {
           name="keywords"
           content="대전 성남 우미린, 우미린, 대전 성남 우미린모델하우스"
         />
-        <link rel="canonical" href="https://www.vaaclubs.com/Brand/intro" />
+        <link rel="canonical" href="https://www.marvelpartners.co.kr/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="대전 성남 우미린 - 사업안내" />
@@ -84,11 +84,11 @@ const BusinessGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.vaaclubs.com/Main1.png"
+          content="https://www.marvelpartners.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.vaaclubs.com/Brand/intro"
+          content="https://www.marvelpartners.co.kr/Brand/intro"
         />
         <meta property="og:site_name" content="대전 성남 우미린" />
 
@@ -104,11 +104,11 @@ const BusinessGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.vaaclubs.com/Main1.png"
+          content="https://www.marvelpartners.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.vaaclubs.com/Brand/intro"
+          content="https://www.marvelpartners.co.kr/Brand/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -119,7 +119,7 @@ const BusinessGuide1 = () => {
 			"@type": "WebPage",
 			"name": "대전 성남 우미린 - 사업안내",
 			"description": "대전 성남 우미린은 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다.",
-			"url": "https://www.vaaclubs.com/Brand/intro"
+			"url": "https://www.marvelpartners.co.kr/Brand/intro"
 		}
 		`}
         </script>
