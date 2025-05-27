@@ -12,7 +12,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 // FAMILY SITE 목록 예시
 
 const partnerSites = [  
-  { name: "대전성남우미린 ", url: "https://hangboggift.kr/" },
+  { name: "대전성남우미린", url: "https://hangboggift.kr/" },
 
 
 
