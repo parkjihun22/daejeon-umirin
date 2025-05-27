@@ -76,7 +76,7 @@ const FloorPlan2 = () => {
           name="keywords"
           content="대전 성남 우미린, 성남 우미린, 대전 성남 우미린모델하우스"
         />
-        <link rel="canonical" href="https://www.marvelpartners.co.kr/FloorPlan/59A" />
+        <link rel="canonical" href="https://hangboggift.kr/FloorPlan/59A" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -89,11 +89,11 @@ const FloorPlan2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.marvelpartners.co.kr/Main1.png"
+          content="https://hangboggift.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.marvelpartners.co.kr/FloorPlan/59A"
+          content="https://hangboggift.kr/FloorPlan/59A"
         />
         <meta property="og:site_name" content="대전 성남 우미린" />
 
@@ -109,11 +109,11 @@ const FloorPlan2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.marvelpartners.co.kr/Main1.png"
+          content="https://hangboggift.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.marvelpartners.co.kr/FloorPlan/59A"
+          content="https://hangboggift.kr/FloorPlan/59A"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -124,7 +124,7 @@ const FloorPlan2 = () => {
 				"@type": "WebPage",
 				"name": "대전 성남 우미린 - 84타입 평면안내",
 				"description": "84타입의평면 안내 페이지는 대전 성남 우미린의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.",
-				"url": "https://www.marvelpartners.co.kr/FloorPlan/59A"
+				"url": "https://hangboggift.kr/FloorPlan/59A"
 						}
 						`}
         </script>
